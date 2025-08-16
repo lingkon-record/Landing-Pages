@@ -46,6 +46,10 @@ function App() {
 
 export default App;
 
+// online fetch : https://reqbin.com/
+// https://jsonplaceholder.typicode.com/posts
+// https://jsonplaceholder.typicode.com/posts/1
+
 // ✅ ব্যাখ্যা: setPosts(data);
 
 // এটি একটি React Hook ফাংশন (useState থেকে পাওয়া setPosts)।
@@ -54,3 +58,4 @@ export default App;
 
 // 📌 সংক্ষেপে:
 // setPosts(data) → ফেচ করা ডেটা → posts নামক state এ রাখা হয় → UI তে দেখানো হয়।
+
