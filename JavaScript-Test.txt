@@ -4,3 +4,5 @@ file name : runjs_3.1.2_amd64.deb
 size : 85.6 MB
 
 FULL LINK FOR DOWNLOAD JS COMPILER 
+
+https://github.com/lukehaas/RunJS/releases/download/v3.1.2/runjs_3.1.2_amd64.deb
